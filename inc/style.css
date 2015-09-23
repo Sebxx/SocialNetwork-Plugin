@@ -1,0 +1,51 @@
+/**
+ * 	Plugin styles
+ *
+ * 	@author		@Sebxx
+ * 	@category	Admin
+ * 	@package	SocialNetworks Plugin
+ * 	@version	0.1
+ * */
+ 
+ .sns_alert{
+ 	color:#CC181E;
+ }
+
+ #sns_export_buttons{
+ 	width:100%;
+ }
+
+ .export_button{
+ 	width:33%;
+ 	text-align:center;
+ 	display: inline-block;
+ }
+
+ #sns_response_container{
+ 	width: 100%;
+ }
+
+ #sns_red{
+ 	width: 49%;
+ 	text-align: left;
+ 	display: inline-table;
+ }
+
+ #sns_red_in{
+ 	width: 45%;
+ 	text-align: left;
+ 	display: inline-table;
+ }
+
+ #spinner{
+ 	display: none;
+ 	width:100px;
+ 	height: 100px;
+ 	position: fixed;
+ 	top: 50%;
+ 	left: 50%;
+ 	text-align:center;
+ 	margin: 0 auto;
+ 	z-index:2;
+ 	overflow: auto;
+ }    
